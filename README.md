@@ -96,7 +96,6 @@ status: online
 ## `./connect`
 
 ```text
-email    : abrahamgeorge7777@gmail.com
 github   : github.com/abrahamwebdev
 twitter  : twitter.com/realAbraham_GT
 linkedin : linkedin.com/in/abraham-george-thankachan
